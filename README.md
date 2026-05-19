@@ -47,7 +47,7 @@ Because this model uses a Python script to fetch data directly into Excel via `x
 2. Open the Excel file: Launch College Football Model.xlsm.
 3. Refresh the Data: Click the "Refresh" button on the dashboard. This triggers the Python script to scrape the latest ESPN and TeamRankings data, match the team names, and push the fresh data directly into the 2025 sheet.
 4. **Evaluate the Matchups:** * Look at the **Total Points** column. Remember, this number represents how many stats *do not* meet the baseline criteria. A lower number indicates a more statistically complete team.
-   ◦ Use the interface to compare two teams head-to-head based on historical championship data.
+     * Use the interface to compare two teams head-to-head based on historical championship data.
 
 ## Contributing & Feedback
 If you have ideas for new metrics, want to help optimize the Python web scraper, or spot a bug in the calculations, feel free to open an issue or submit a pull request! Let's build the ultimate CFB forecasting community.
