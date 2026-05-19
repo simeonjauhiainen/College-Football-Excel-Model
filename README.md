@@ -7,7 +7,9 @@ Welcome to the **College Football Excel Model**. This project is a robust, data-
 ---
 
 ## The 2025 Perfect Bracket
-In the 2025 season, this model achieved something extremely rare: **a 100% accurate prediction of the College Football Playoff bracket.** <img width="513" height="552" alt="CFP Perfect Bracket 2024-25" src="https://github.com/user-attachments/assets/60869162-d030-4c9a-ad91-11e607f8b3ec" />
+In the 2025 season, this model achieved something extremely rare: **a 100% accurate prediction of the College Football Playoff bracket.** 
+
+<img width="513" height="552" alt="CFP Perfect Bracket 2024-25" src="https://github.com/user-attachments/assets/60869162-d030-4c9a-ad91-11e607f8b3ec" />
 
 **How it did it:**
 * Accurately displays a total body of work for a team rather than relying on flawed, result-based ranking systems (like the AP Poll) that often fail to capture true season-long performance.
